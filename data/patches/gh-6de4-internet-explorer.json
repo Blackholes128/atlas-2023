@@ -1,0 +1,72 @@
+{
+	"id": -1,
+	"name": "Internet Explorer",
+	"description": "Internet Explorer (IE or MSIE) was Microsoft's official web browser designed for windows systems. First included for the add on package 'Plus!' for Windows 95, it became the prepackaged internet browser for all windows systems until it was replaced in the late 2010s by it's successor, Microsoft Edge.\nIt is memed quite a lot for it's incredibly bad web page loading speed.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Internet_Explorer"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-1435,
+				989
+			],
+			[
+				-1433,
+				984
+			],
+			[
+				-1432,
+				980
+			],
+			[
+				-1427,
+				978
+			],
+			[
+				-1421,
+				977
+			],
+			[
+				-1420,
+				979
+			],
+			[
+				-1422,
+				985
+			],
+			[
+				-1421,
+				988
+			],
+			[
+				-1425,
+				990
+			],
+			[
+				-1427,
+				991
+			],
+			[
+				-1431,
+				992
+			],
+			[
+				-1433,
+				992
+			],
+			[
+				-1435,
+				989
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-1427,
+			985
+		]
+	}
+}
